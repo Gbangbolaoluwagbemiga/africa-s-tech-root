@@ -37,11 +37,16 @@ video {
 }
 @media screen and (max-width: 500px) {
   .mp4 {
-    width: 100%;
+    width: 90%;
     height: 50%;
   }
   .text {
-    width: 100%;
+    width: 90%;
     text-align: center;
+  }
+  .related {
+    font-size: 30px;
+    margin-top: 10%;
+    margin-bottom: 5%;
   }
 }

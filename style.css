@@ -40,8 +40,12 @@ video {
     width: 70%;
     height: 50%;
   }
+  .first {
+    justify-content: none;
+  }
   .text {
-    width: 80%;
+    font-size: 20px;
+    width: 90%;
     text-align: center;
   }
   .related {

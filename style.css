@@ -18,8 +18,8 @@ video {
 .first {
   margin: 30px;
   width: 100%;
-  display: flex;
   flex-wrap: wrap;
+  display: flex;
   justify-content: space-around;
 }
 .related {
@@ -36,6 +36,7 @@ video {
 .main-text {
   text-align: center;
 }
+
 img {
   width: 40%;
   margin: 3%;
@@ -51,7 +52,9 @@ img {
     height: 50%;
   }
   .first {
+    width: 100%;
     margin: 3px;
+    margin-bottom: 10%;
   }
   .text {
     top: 30px;
